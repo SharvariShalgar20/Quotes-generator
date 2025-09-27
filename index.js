@@ -17,8 +17,7 @@ app.get('/', (req, res) => {
               <body>
                 <h1>Hello! Welcome to the page</h1>
                 <h2 class="quote">search for localhost:3000/quotes for the quotes!</h2>
-              </body>
-            
+              </body> 
             </html>`);
 })
 
